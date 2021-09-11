@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 7ef8a764f1bfc01468fffcfe8d951576
+timeCreated: 1575467255
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: badge
+    100004: body
+    100006: carbon1
+    100008: carbon2
+    100010: carbon3
+    100012: chassis
+    100014: door_lf_ok
+    100016: door_rf_ok
+    100018: eng1
+    100020: eng_alpha
+    100022: glass
+    100024: gr1
+    100026: int1
+    100028: lf
+    100030: light
+    100032: plast1
+    100034: rf
+    100036: wheel
+    400000: //RootNode
+    400002: badge
+    400004: body
+    400006: carbon1
+    400008: carbon2
+    400010: carbon3
+    400012: chassis
+    400014: door_lf_ok
+    400016: door_rf_ok
+    400018: eng1
+    400020: eng_alpha
+    400022: glass
+    400024: gr1
+    400026: int1
+    400028: lf
+    400030: light
+    400032: plast1
+    400034: rf
+    400036: wheel
+    2300000: badge
+    2300002: body
+    2300004: carbon1
+    2300006: carbon2
+    2300008: carbon3
+    2300010: chassis
+    2300012: door_lf_ok
+    2300014: door_rf_ok
+    2300016: eng1
+    2300018: eng_alpha
+    2300020: glass
+    2300022: gr1
+    2300024: int1
+    2300026: lf
+    2300028: light
+    2300030: plast1
+    2300032: rf
+    2300034: wheel
+    3300000: badge
+    3300002: body
+    3300004: carbon1
+    3300006: carbon2
+    3300008: carbon3
+    3300010: chassis
+    3300012: door_lf_ok
+    3300014: door_rf_ok
+    3300016: eng1
+    3300018: eng_alpha
+    3300020: glass
+    3300022: gr1
+    3300024: int1
+    3300026: lf
+    3300028: light
+    3300030: plast1
+    3300032: rf
+    3300034: wheel
+    4300000: chassis
+    4300002: body
+    4300004: int1
+    4300006: light
+    4300008: eng1
+    4300010: plast1
+    4300012: carbon3
+    4300014: carbon2
+    4300016: carbon1
+    4300018: gr1
+    4300020: eng_alpha
+    4300022: badge
+    4300024: glass
+    4300026: door_rf_ok
+    4300028: rf
+    4300030: door_lf_ok
+    4300032: lf
+    4300034: wheel
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

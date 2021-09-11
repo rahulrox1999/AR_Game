@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 492cd729e9af342428240de5d1337f92
+timeCreated: 1542981708
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: badge
+    100002: black
+    100004: bonnet_ok
+    100006: chassis_ok
+    100008: Collision
+    100010: door_lf_ok
+    100012: //RootNode
+    100014: exhaust_ok
+    100016: hub_lb
+    100018: hub_lf
+    100020: hub_rb
+    100022: hub_rf
+    100024: interior
+    100026: interiordash
+    100028: kanoon48
+    100030: light
+    100032: movspoiler_3_0_3000
+    100034: movsteer_0_45
+    100036: Shadow
+    100038: underbody
+    100040: velg_rf
+    100042: widebody
+    400000: badge
+    400002: black
+    400004: bonnet_ok
+    400006: chassis_ok
+    400008: Collision
+    400010: door_lf_ok
+    400012: //RootNode
+    400014: exhaust_ok
+    400016: hub_lb
+    400018: hub_lf
+    400020: hub_rb
+    400022: hub_rf
+    400024: interior
+    400026: interiordash
+    400028: kanoon48
+    400030: light
+    400032: movspoiler_3_0_3000
+    400034: movsteer_0_45
+    400036: Shadow
+    400038: underbody
+    400040: velg_rf
+    400042: widebody
+    2300000: badge
+    2300002: black
+    2300004: bonnet_ok
+    2300006: chassis_ok
+    2300008: Collision
+    2300010: door_lf_ok
+    2300012: exhaust_ok
+    2300014: hub_lb
+    2300016: hub_lf
+    2300018: hub_rb
+    2300020: hub_rf
+    2300022: interior
+    2300024: interiordash
+    2300026: kanoon48
+    2300028: light
+    2300030: movspoiler_3_0_3000
+    2300032: movsteer_0_45
+    2300034: Shadow
+    2300036: underbody
+    2300038: velg_rf
+    2300040: widebody
+    3300000: badge
+    3300002: black
+    3300004: bonnet_ok
+    3300006: chassis_ok
+    3300008: Collision
+    3300010: door_lf_ok
+    3300012: exhaust_ok
+    3300014: hub_lb
+    3300016: hub_lf
+    3300018: hub_rb
+    3300020: hub_rf
+    3300022: interior
+    3300024: interiordash
+    3300026: kanoon48
+    3300028: light
+    3300030: movspoiler_3_0_3000
+    3300032: movsteer_0_45
+    3300034: Shadow
+    3300036: underbody
+    3300038: velg_rf
+    3300040: widebody
+    4300000: badge
+    4300002: black
+    4300004: bonnet_ok
+    4300006: chassis_ok
+    4300008: Collision
+    4300010: door_lf_ok
+    4300012: exhaust_ok
+    4300014: hub_lb
+    4300016: hub_lf
+    4300018: hub_rb
+    4300020: hub_rf
+    4300022: interior
+    4300024: interiordash
+    4300026: kanoon48
+    4300028: light
+    4300030: movspoiler_3_0_3000
+    4300032: movsteer_0_45
+    4300034: Shadow
+    4300036: underbody
+    4300038: velg_rf
+    4300040: widebody
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

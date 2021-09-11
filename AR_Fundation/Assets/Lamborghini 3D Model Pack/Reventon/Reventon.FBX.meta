@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: f489e02d5a8b91842976cb398a879c2c
+timeCreated: 1575463966
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bonnet_ok
+    100002: boot_dam
+    100004: boot_ok
+    100006: bp_lb
+    100008: bp_lf
+    100010: bp_rb
+    100012: bp_rf
+    100014: bump_front_ok
+    100016: bump_rear_ok
+    100018: chassis
+    100020: chassis_loda
+    100022: door_lf_ok
+    100024: door_rf_ok
+    100026: glass
+    100028: intanim_cpit
+    100030: interior_cpit
+    100032: lights_loda
+    100034: popup
+    100036: //RootNode
+    100038: seat
+    100040: steering_ok
+    100042: wheel_rf
+    100044: windscreen_ok
+    400000: bonnet_ok
+    400002: boot_dam
+    400004: boot_ok
+    400006: bp_lb
+    400008: bp_lf
+    400010: bp_rb
+    400012: bp_rf
+    400014: bump_front_ok
+    400016: bump_rear_ok
+    400018: chassis
+    400020: chassis_loda
+    400022: door_lf_ok
+    400024: door_rf_ok
+    400026: glass
+    400028: intanim_cpit
+    400030: interior_cpit
+    400032: lights_loda
+    400034: popup
+    400036: //RootNode
+    400038: seat
+    400040: steering_ok
+    400042: wheel_rf
+    400044: windscreen_ok
+    2300000: bonnet_ok
+    2300002: boot_dam
+    2300004: boot_ok
+    2300006: bp_lb
+    2300008: bp_lf
+    2300010: bp_rb
+    2300012: bp_rf
+    2300014: bump_front_ok
+    2300016: bump_rear_ok
+    2300018: chassis
+    2300020: chassis_loda
+    2300022: door_lf_ok
+    2300024: door_rf_ok
+    2300026: glass
+    2300028: intanim_cpit
+    2300030: interior_cpit
+    2300032: lights_loda
+    2300034: popup
+    2300036: seat
+    2300038: steering_ok
+    2300040: wheel_rf
+    2300042: windscreen_ok
+    3300000: bonnet_ok
+    3300002: boot_dam
+    3300004: boot_ok
+    3300006: bp_lb
+    3300008: bp_lf
+    3300010: bp_rb
+    3300012: bp_rf
+    3300014: bump_front_ok
+    3300016: bump_rear_ok
+    3300018: chassis
+    3300020: chassis_loda
+    3300022: door_lf_ok
+    3300024: door_rf_ok
+    3300026: glass
+    3300028: intanim_cpit
+    3300030: interior_cpit
+    3300032: lights_loda
+    3300034: popup
+    3300036: seat
+    3300038: steering_ok
+    3300040: wheel_rf
+    3300042: windscreen_ok
+    4300000: wheel_rf
+    4300002: bp_lf
+    4300004: bp_rf
+    4300006: bp_lb
+    4300008: bp_rb
+    4300010: lights_loda
+    4300012: interior_cpit
+    4300014: seat
+    4300016: intanim_cpit
+    4300018: chassis_loda
+    4300020: chassis
+    4300022: popup
+    4300024: bonnet_ok
+    4300026: bump_front_ok
+    4300028: bump_rear_ok
+    4300030: boot_ok
+    4300032: boot_dam
+    4300034: door_lf_ok
+    4300036: door_rf_ok
+    4300038: glass
+    4300040: windscreen_ok
+    4300042: steering_ok
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
